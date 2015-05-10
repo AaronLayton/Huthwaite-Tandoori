@@ -157,38 +157,42 @@
          "Title":"Tandoori Dishes",
          "Dishes":[
             {
+               "Title":"Tandoori chef specials",
+               "Description":"All tandoori dishes marinated in very subtle spices. Then barbecued in an oven clay over charcoal until tender, served on a sizzler with salad."
+            },
+            {
                "Title":"Tandoori Chicken (half)",
-               "Description": "<needs-info>",
+               "Description": "Half a chicken marinated and grilled in Tandoor",
                "Price":"5.95"
             },
             {
                "Title":"Chicken Tikka",
-               "Description": "<needs-info>",
+               "Description": "Chicken pieces off the bone marinated and grilled in Tandoor",
                "Price":"6.30"
             },
             {
                "Title":"Chicken Tikka Garlic",
-               "Description": "<needs-info>",
+               "Description": "Chicken off the bone, grilled in Tandoor and fried with onions and garlic",
                "Price":"6.95"
             },
             {
                "Title":"Lamb Tikka",
-               "Description": "<needs-info>",
+               "Description": "Lamb marinated and grilled in Tandoor",
                "Price":"6.30"
             },
             {
                "Title":"Tandoori King Prawns",
-               "Description": "<needs-info>",
+               "Description": "King prawns grilled in Tandoor and served with Mint Sauce",
                "Price":"10.50"
             },
             {
                "Title":"Chicken and Lamb Shaslick",
-               "Description": "<needs-info>",
+               "Description": "Barbecued together with chunks of onion, green pepper and tomato",
                "Price":"6.95"
             },
             {
                "Title":"Tandoori Mix Grill",
-               "Description": "<needs-info>",
+               "Description": "On & off the bone chicken, lamb and kebabs marinated and grilled. Served with Naan bread",
                "Price":"8.95"
             }
          ]
@@ -196,6 +200,9 @@
       {
          "Title":"Massala Dishes",
          "Dishes":[
+            {
+               "Description":"Marinated chicken, lamb or king prawns cooked in a clay oven, then cooked again in a thick creamy almond coconut sauce with very subtle spice."
+            },
             {
                "Title":"Chicken Tikka or Lamb Tikka Massalla",
                "Description": "<needs-info>",
@@ -216,6 +223,9 @@
       {
          "Title":"Morchi Massala Dishes",
          "Dishes":[
+            {
+               "Description":"Hot spicy dishes cooked in chopped Onions, Garlic &amp; Green Chillies in a thick sauce."
+            },
             {
                "Title":"Chicken Tikka or Lamb Tikka Morchi Massalla",
                "Description": "<needs-info>",
@@ -242,6 +252,9 @@
          "Title":"Kharai and Jalfreze Dishes",
          "Dishes":[
             {
+               "Description":"Medium spicy dishes cooked in a thick sauce."
+            },
+            {
                "Title":"Chicken Tikka or Lamb Tikka Kharai",
                "Description": "<needs-info>",
                "Price":"6.95"
@@ -260,6 +273,9 @@
                "Title":"Vegetable Kharai",
                "Description": "<needs-info>",
                "Price":"5.80"
+            },
+            {
+               "Description":"Hot spicy dish, cooked in dish that it is served. Sauce consists of onions, green peppers and chillies."
             },
             {
                "Title":"Chicken Tikka or Lamb Tikka Jalfreze",
@@ -287,58 +303,61 @@
          "Title":"Chef's Special Dishes",
          "Dishes":[
             {
+               "Description":"All dishes can be made for vegetarians on request."
+            },
+            {
                "Title":"Tandoori King Prawn Delight",
-               "Description": "<needs-info>",
+               "Description": "Marinated King Prawns cooked in a thick, creamy sauce made from brandy and almond coconut sauce.",
                "Price":"11.50"
             },
             {
                "Title":"Lamb Passanda",
-               "Description": "<needs-info>",
+               "Description": "Marinated Lamb cooked in a creamy coconut and almond rich exotic red wine sauce.",
                "Price":"6.95"
             },
             {
                "Title":"Butter Chicken",
-               "Description": "<needs-info>",
+               "Description": "Marinated chicken cooked in butter and very mild almond and coconut sauce to give a rich and creamy taste.",
                "Price":"6.95"
             },
             {
                "Title":"Shahi Murgee",
-               "Description": "<needs-info>",
+               "Description": "Marinated chicken served off the bone with minced lamb and Curry sauce.",
                "Price":"7.50"
             },
             {
                "Title":"Kufta Khana",
-               "Description": "<needs-info>",
+               "Description": "Minced lamb rolled into balls and cooked in Tandoor before cooking again in a thick medium spicy curry sauce.",
                "Price":"6.95"
             },
             {
                "Title":"King Prawn Jinga",
-               "Description": "<needs-info>",
+               "Description": "King prawns cooked in shells in thick medium spice sauce.",
                "Price":"10.95"
             },
             {
                "Title":"Jeera Dhania",
-               "Description": "<needs-info>",
+               "Description": "Chicken or Lamb cooked with cumin seeds and fresh corriander, medium mild spice sauce.",
                "Price":"6.95"
             },
             {
                "Title":"Achari Chilli",
-               "Description": "<needs-info>",
+               "Description": "Chicken or Lamb cooked with fresh chilli and pickle with a hint of garlic to give a hot and tangy taste.",
                "Price":"6.95"
             },
             {
                "Title":"Garlic Rezela",
-               "Description": "<needs-info>",
+               "Description": "Small chicken breast pieces cooked in mince lamb and a thick garlic sauce which is medium hot.",
                "Price":"7.50"
             },
             {
                "Title":"Beghum Bahar",
-               "Description": "<needs-info>",
+               "Description": "Chicken or Lamb cooked with fresh aubergine in a thick, mild sauce.",
                "Price":"6.95"
             },
             {
                "Title":"Salmon Khata",
-               "Description": "<needs-info>",
+               "Description": "Salmon cooked with garlic, tomato and fresh corriander.",
                "Price":"7.95"
             }
          ]
@@ -346,6 +365,9 @@
       {
          "Title":"Balti and Patia Dishes",
          "Dishes":[
+            {
+               "Description": "This famous North Indian dish has been introduced on request, based on special spices from North India. This dish is slightly spicy and the tarmarined leaves a slightly tangy taste. Served with Naan bread."
+            },
             {
                "Title":"Chicken, Lamb or Prawn Balti",
                "Description": "<needs-info>",
@@ -363,7 +385,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Balti",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"8.20"
             },
             {
@@ -383,7 +405,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Patia",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
             }
          ]
@@ -391,6 +413,9 @@
       {
          "Title":"Dhansak and Bhoona Dishes",
          "Dishes":[
+            {
+               "Description": "These dishes are cooked with specially selected spices and thickened with lentils to give an authentic sweet and sour texture with hot after taste."
+            },
             {
                "Title":"Chicken, Lamb or Prawn Dhansak",
                "Description": "<needs-info>",
@@ -408,8 +433,11 @@
             },
             {
                "Title":"Chicken or lamb Tikka Dhansak",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
+            },
+            {
+               "Description":"Prepared in medium spices in a thick onion and tomato sauce to give a rich authentic taste."   
             },
             {
                "Title":"Chicken, Lamb or Prawn Bhoona",
@@ -428,7 +456,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Bhoona",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
             }
          ]
@@ -436,6 +464,9 @@
       {
          "Title":"Garlic Roshon and Biriani Dishes",
          "Dishes":[
+            {
+               "Description":"Introduced by request, These dishes are prepared in a thick medium spicy sauce with lot's of garlic to to give an exquisite aroma and taste."
+            },
             {
                "Title":"Chicken, Lamb or Prawn Garlic Roshon",
                "Description": "<needs-info>",
@@ -453,7 +484,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Garlic Roshon",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
             },
             {
@@ -473,7 +504,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Birani",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"7.95"
             }
          ]
@@ -481,6 +512,9 @@
       {
          "Title":"Rogon Josh Dishes",
          "Dishes":[
+            {
+               "Description":"A medium spiced dish cooked with thick sauce and topped with juicy tomatoes."
+            },
             {
                "Title":"Chicken, Lamb or Prawn Rogon Josh",
                "Description": "<needs-info>",
@@ -498,7 +532,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Rogon Josh",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
             }
          ]
@@ -506,6 +540,9 @@
       {
          "Title":"Malayan and Ceylon Dishes",
          "Dishes":[
+            {
+               "Description":"A mild dish cooked with a slightly creamy pineapple sauce giving a fruity taste."
+            },
             {
                "Title":"Chicken, Lamb or Prawn Malayan",
                "Description": "<needs-info>",
@@ -523,8 +560,11 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Malayan",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
+            },
+            {
+               "Description":"Prepared in hot spices in a light sauce garished in coconut powder."
             },
             {
                "Title":"Chicken, Lamb or Prawn Ceylon",
@@ -543,7 +583,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Ceylon",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
             }
          ]
@@ -551,6 +591,9 @@
       {
          "Title":"Dupiaza and Madras Dishes",
          "Dishes":[
+            {
+               "Description":"A medium spiced dish prepared with thick chunky onions and green peppers."
+            },
             {
                "Title":"Chicken, Lamb Or Prawn Dupiaza",
                "Description": "<needs-info>",
@@ -568,8 +611,11 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Dupiaza",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
+            },
+            {
+               "Description":"A fairly hot curry prepared in a spicy sauce."
             },
             {
                "Title":"Chicken, Lamb or Prawn Madras",
@@ -588,7 +634,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Madras",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
             }
          ]
@@ -596,6 +642,9 @@
       {
          "Title":"Korma and Basic Curry Dishes",
          "Dishes":[
+            {
+               "Description":"Prepared in a sweet creamy coconut sauce with very subtle traditional spices."
+            },
             {
                "Title":"Chicken, lamb or Prawn Korma",
                "Description": "<needs-info>",
@@ -613,8 +662,11 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Korma",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
+            },
+            {
+               "Description":"A mild to medium dish with simple spices to give the traditional indian flavour."
             },
             {
                "Title":"Chicken, Lamb or Prawn Curry",
@@ -642,6 +694,9 @@
          "Title":"Phall and Vindaloo Dishes",
          "Dishes":[
             {
+               "Description":"An extremely hot dish prepared in a thick chilli sauce."
+            },
+            {
                "Title":"Chicken, Lamb or Prawn Phall",
                "Description": "<needs-info>",
                "Price":"5.80"
@@ -658,8 +713,11 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Phall",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
+            },
+            {
+               "Description":"Prepared in very hot spices the sauce contains spicy potato for flavour."
             },
             {
                "Title":"Chicken, Lamb or prawn Vindaloo",
@@ -678,7 +736,7 @@
             },
             {
                "Title":"Chicken or Lamb Tikka Vindaloo",
-               "Description": "<needs-info>",
+               "Description": "In Tikka dishes the meat is marinaded in aromatic spices and yogurt before cooking.",
                "Price":"6.95"
             }
          ]
@@ -686,6 +744,9 @@
       {
          "Title":"English Dishes",
          "Dishes":[
+            {
+               "Description":"All dishes are served with peas, tomatoes and a portion of chips."
+            },
             {
                "Title":"Sirloin Steak",
                "Description": "<needs-info>",
@@ -718,12 +779,12 @@
             },
             {
                "Title":"Brinjal Bhajee",
-               "Description": "<needs-info>",
+               "Description": "Aubergine",
                "Price":"2.95"
             },
             {
                "Title":"Saag Bhajee",
-               "Description": "<needs-info>",
+               "Description": "Spinach",
                "Price":"2.95"
             },
             {
@@ -738,7 +799,7 @@
             },
             {
                "Title":"Saag Aloo",
-               "Description": "<needs-info>",
+               "Description": "Potato And Spinach",
                "Price":"3.30"
             },
             {
@@ -753,12 +814,12 @@
          "Dishes":[
             {
                "Title":"Pilau Rice",
-               "Description": "<needs-info>",
+               "Description": "Basmati",
                "Price":"1.95"
             },
             {
                "Title":"Plain Rice",
-               "Description": "<needs-info>",
+               "Description": "Long Grain",
                "Price":"1.75"
             },
             {
@@ -773,7 +834,7 @@
             },
             {
                "Title":"Special Fried Rice",
-               "Description": "<needs-info>",
+               "Description": "Eggs & Peas",
                "Price":"2.60"
             },
             {
@@ -893,57 +954,57 @@
          "Dishes":[
             {
                "Title":"Achari Kalia",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked with minced lamb, fresh chilli and pickle with a hint of garlic. Hot after taste.",
                "Price":"8.20"
             },
             {
                "Title":"Cham Cham Cheddar",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked in a thick medium spicy sauce, topped with cheddar cheese.",
                "Price":"7.80"
             },
             {
                "Title":"Jal Mishti",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked with onion green pepper and mango, fairly hot and sweet.",
                "Price":"7.80"
             },
             {
                "Title":"Cheddar Bahar",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked in mild thick mango sauce, topped with cheddar cheese.",
                "Price":"7.80"
             },
             {
                "Title":"Mango Delight",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked in mango, almond, coconut and fresh cream, mild sweet sauce.",
                "Price":"7.80"
             },
             {
                "Title":"Tikka Paneer",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked on charcoal served with fried onions and cheddar cheese. Served dry.",
                "Price":"7.80"
             },
             {
                "Title":"Kalia Balti",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked in minced lamb and a balti sauce, slightly spicy and tangy taste, served with a naan bread.",
                "Price":"8.95"
             },
             {
                "Title":"Masala Balti",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked in almonds, coconut and a balti sauce, slightly spicy and tangy taste, served with a naan bread.",
                "Price":"8.95"
             },
             {
                "Title":"Pathia Balti",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked in a hot spicy thick sauce, sweet and sour taste, served with a naan bread.",
                "Price":"7.80"
             },
             {
                "Title":"Achari Garlic Roshon",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked with fresh garlic chilli and pickles, fairly hot thick sauce.",
                "Price":"7.80"
             },
             {
                "Title":"Achari Rogan Josh",
-               "Description": "<needs-info>",
+               "Description": "Chicken or lamb cooked with fresh chilli and pickles, hot tangy taste topped with tomato.",
                "Price":"7.80"
             }
          ]
